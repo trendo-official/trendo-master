@@ -1,3 +1,5 @@
+![image](https://github.com/trendo-official/trendo-master/blob/master/src/test/Trendo%20logo.png)
+
 Trendo Coin  v1.2.0
 =====================================
 
