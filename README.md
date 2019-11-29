@@ -1,6 +1,5 @@
-![image](https://github.com/trendo-official/trendo-master/blob/master/src/test/Trendo%20logo.png)
 <p align="center">
-  <img width="460" height="300" src="https://github.com/trendo-official/trendo-master/blob/master/src/test/Trendo%20logo.png">
+  <img src="https://github.com/trendo-official/trendo-master/blob/master/src/test/Trendo%20logo.png">
 </p>
 
 
